@@ -177,7 +177,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   for more information.
 </p>
 <p id="registration">
-	<strong>Registration:</strong> Please register by completing the form available at https://goo.gl/forms/uwjTvJJ9Y5byC8pe2. Limited space is available. First come first serve.
+	<strong>Registration:</strong> Please register by completing the form available at [https://goo.gl/forms/uwjTvJJ9Y5byC8pe2](https://goo.gl/forms/uwjTvJJ9Y5byC8pe2). Limited space is available. First come first serve.
 	</p>
 	
 
